@@ -14,3 +14,22 @@ function onClick2() {
 
 btn1.addEventListener("click", onClick);
 btn2.addEventListener("click", onClick2);
+
+var button1 = document.getElementById("button1");
+
+function onClick(event) {
+	par.innerText = "I'm Right";
+}
+
+button1.addEventListener("click", onClick);
+
+
+
+var button2 = document.getElementById("button2");
+
+function onClick2(event) {
+	par.innerText = "No I'm Right";
+}
+
+
+button2.addEventListener("click", onClick2);

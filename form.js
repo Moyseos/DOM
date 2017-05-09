@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* var desireName = "Nick";
+=======
+var desireName = "Nick";
+>>>>>>> 186a94303ddccc19200dcd05355d09a30b760e1b
 
 var form = document.getElementById("info");
 
@@ -15,6 +19,7 @@ form.addEventListener("submit", function(event) {
 	else {
 		alert("Incorect");
 	}
+<<<<<<< HEAD
 }); */
 
 
@@ -33,4 +38,6 @@ form.addEventListener("submit",function(event) {
 	else {
 		alert("Invalid Password or Username or Both");
 	}
+=======
+>>>>>>> 186a94303ddccc19200dcd05355d09a30b760e1b
 });
