@@ -1,8 +1,19 @@
-body {
-	background-color: #7e97bf;
+.center-all{
+	text-align: center;
+}
+form {
+	padding: 20px 20px 20px 20px;
+	margin-left: 41%;
+	margin-right: 41%;
 }
 
-
-{
-	align-items: center;
+label{
+	font-size: 25px;
+}
+input{
+	font-size: 20px;
+}
+button{
+	margin-top: 10px;
+	font-size: 20px;
 }
